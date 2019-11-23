@@ -16,6 +16,7 @@ def hopper
         }
      }
 
+puts programmer_hash[hopper]
 
 end
 
